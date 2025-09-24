@@ -1,1 +1,3 @@
 "Pantalla de login" 
+"Cambio en login" 
+"Nueva linea" 
